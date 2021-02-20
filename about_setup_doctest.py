@@ -47,5 +47,5 @@ Tests:
 
 
 # Given
-firstname = 'Mark'
-lastname = 'Watney'
+firstname: str = 'Mark'
+lastname: str = 'Watney'
